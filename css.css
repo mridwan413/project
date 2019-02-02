@@ -1,0 +1,13 @@
+h1{
+    font-weight: 800;
+    color:black;
+    font-style: bold;
+    font-size: 50px;
+}
+#menu{
+    border-radius: 10px;
+    width: 400px;
+    background-color:greenyellow;
+}
+
+
